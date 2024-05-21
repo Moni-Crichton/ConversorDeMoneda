@@ -1,0 +1,26 @@
+    ExchangeRate-API:
+        Planes gratuitos: Ofrece un plan gratuito con límites de solicitudes diarias y funcionalidades básicas.
+        Planes de pago: Los planes de pago ofrecen más solicitudes diarias, actualizaciones de tasas de cambio más frecuentes y soporte técnico.
+
+    Open Exchange Rates:
+        Planes gratuitos: Tiene un plan gratuito que permite un número limitado de solicitudes por mes y acceso a tasas de cambio básicas.
+        Planes de pago: Los planes de pago proporcionan más solicitudes por mes, tasas de cambio más precisas, datos históricos, y otras funcionalidades avanzadas.
+
+    CurrencyLayer:
+        Planes gratuitos: Ofrece un plan gratuito con un número limitado de solicitudes mensuales y acceso a tasas de cambio básicas.
+        Planes de pago: Los planes de pago permiten más solicitudes mensuales, acceso a tasas de cambio en tiempo real, datos históricos, y más.
+
+    Fixer:
+        Planes gratuitos: Ofrece un plan gratuito con un número limitado de solicitudes y acceso a tasas de cambio básicas.
+        Planes de pago: Los planes de pago ofrecen mayor cantidad de solicitudes, actualizaciones más frecuentes de las tasas de cambio, y acceso a datos históricos.
+
+Resumen:
+
+    Planes Gratuitos: Todos estos servicios ofrecen algún nivel de acceso gratuito, aunque generalmente con límites en la cantidad de solicitudes que puedes realizar por día o por mes, y con acceso a funcionalidades básicas.
+    Planes de Pago: Si necesitas más funcionalidades, como actualizaciones más frecuentes, acceso a más datos históricos o tasas de cambio en tiempo real, necesitarás suscribirte a uno de los planes de pago.
+
+Recomendaciones:
+
+    Evaluar las Necesidades: Determina cuántas solicitudes necesitas realizar por día o mes y qué tipo de datos necesitas (frecuencia de actualización, datos históricos, etc.).
+    Comenzar con el Plan Gratuito: Puedes comenzar con el plan gratuito para evaluar si cumple con tus necesidades. Si encuentras que las limitaciones son un problema, entonces considera pasar a un plan de pago.
+    Seguridad: Asegúrate de manejar tus claves de API de manera segura, utilizando variables de entorno o configuraciones seguras en tu aplicación.
